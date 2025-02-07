@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+This is a template that i used made by @ivysone.
+no copyright infringement intended. i just used this to send it to my gf.
 <!--
 **K1-RU/K1-RU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
